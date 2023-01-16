@@ -4,3 +4,4 @@
 * Joker
 * Red Skull
 * Captian América
+* Spiderman
